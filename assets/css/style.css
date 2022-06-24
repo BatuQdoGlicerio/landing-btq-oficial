@@ -1,0 +1,39 @@
+#img{
+  position: absolute;
+  margin-top: 1.5rem;
+  left: 15%;
+  opacity: 0.25;
+  width: 75%;
+  justify-content: center;
+  align-items: center;
+}
+
+#myButton{
+  margin-left: 1rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  color: #46e863 !important;
+}
+
+.navbar-brand{
+  color: #0d6efd !important;
+}
+
+.card{
+  display: flex;
+  position: relative;
+  columns: 3;
+  height: 500px;
+}
+
+.card-title, .card-text {
+  color: black !important;
+}
+#insta{
+  background: #6f2db7 !important;
+}
+
+.insta{
+  color: #e42660 !important;
+}

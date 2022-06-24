@@ -1,6 +1,6 @@
-#Landing Page Projeto Social Cultural BatuQ do Glicério
+# Landing Page Projeto Social Cultural BatuQ do Glicério
 
-##Para acessar basta clicar no link a baixo:
+## Para acessar basta clicar no link a baixo:
 [Site oficial](https://batuq-oficial.netlify.app/)
 
 
